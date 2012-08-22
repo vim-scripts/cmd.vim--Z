@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4187
+
+This scheme was made for the 16 color full screen console in Windows XP. It's named "cmd" after cmd.exe. Full screen consoles give an immersive experience I prefer over a window. But there aren't many schemes designed for a 16 color console.
+
+Every option has been tested in the windows XP console to make sure it looks OK. (except for commented options)
